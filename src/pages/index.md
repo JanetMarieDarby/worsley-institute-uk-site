@@ -7,7 +7,7 @@ showTopQuote: false
 
 # Welcome to the WIT UK training page!
 
-WIT UK, in conjuction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next intake which commences in March 2023.
+WIT UK, in conjuction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next intake which commences in March 2024.
 
 You will find information about the programme structure, dates and fees by clicking on the following link.
 

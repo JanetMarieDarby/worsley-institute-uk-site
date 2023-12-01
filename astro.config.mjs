@@ -15,7 +15,7 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind(), image(), astroImageTools, mdx()]
+  integrations: [tailwind(), image(), astroImageTools, mdx()],
   site: 'https://worsleyinstitute.uk',
   // base: '/worsley-institute-uk-site',
   // output: "server",

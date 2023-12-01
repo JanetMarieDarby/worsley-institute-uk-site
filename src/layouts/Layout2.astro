@@ -1,0 +1,52 @@
+---
+import Footer from "../components/Footer.astro";
+import Hero from "../components/Hero2.astro";
+import Quote from "../components/Quote.astro";
+
+export interface Props {
+    title: string;
+    image: string;
+}
+
+const { title, image } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="generator" content={Astro.generator} />
+        <title>{title}</title>
+    </head>
+    <body class="antialiased font-serif">
+        <div class="bg-gray-100">
+            <div class="bg-gray-800 pb-32">
+                <header class="py-10">
+                    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                        <h1
+                            class="text-xl md:text-3xl leading-9 font-bold text-white text-center"
+                        >
+                            {title}
+                        </h1>
+                    </div>
+                </header>
+            </div>
+            <main class="-mt-32">
+                <div class="max-w-6xl mx-auto pb-12 px-4 sm:px-6 lg:px-8">
+                    <div class="bg-white rounded-lg shadow">
+                        <!-- <Quote /> -->
+                        <Hero image={image} />
+                        <section
+                            class="px-5 py-6 sm:px-6 prose prose-slate md:prose-lg prose-a:underline prose-a:text-blue-600 mx-auto bg-white pb-8"
+                        >
+                            <slot />
+                        </section>
+                    </div>
+                </div>
+            </main>
+            <Footer />
+        </div>
+    </body>
+</html>

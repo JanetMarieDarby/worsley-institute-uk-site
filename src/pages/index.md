@@ -54,7 +54,7 @@ We are not expecting extensive essays on history and theory of acupuncture, or l
 
 [The full faculty team](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Faculty_List.pdf?v=1669673439 "Worsley Institute Training℠ (WIT℠ UK) Programme Structure 2023"), a team dedicated to recapture J.R.’s original inspirational, meaningful training in the oral tradition, staying true to the on-going Worsley lineage.
 
-[Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2023.pdf?v=1673375648 "Worsley Institute Training℠ (WIT℠ UK) Programme Structure 2023")
+[Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2024_v1.0.pdf?v=1694098238)
 
 We are delivering the training in the beautiful Yorkshire Dales, near Leeds. Depending on the geographical location of the participants we may vary the location from time to time in order to make it more affordable or more practical for attendees.
 
@@ -66,7 +66,7 @@ We are delivering the training in the beautiful Yorkshire Dales, near Leeds. Dep
 -   Offering a training that is engaging, stimulating and fun
 -   Being inspired by JR’s style, content and approach, which includes enjoying being together with a common mission.
 
-[Programme Fees](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Fees_March_2023.pdf?v=1669674572 "Worsley Institute TrainingSM UK (WITSM UK) Programme Fees")
+[Programme Fees](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Fees_March_2024.pdf?v=1693320522)
 
 If you would like to join us on this training which offers an incredible opportunity for personal growth, challenging experiences and profound realisation, please complete the application form (link below).
 

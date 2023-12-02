@@ -13,7 +13,7 @@ You will find information about the programme structure, dates and fees by click
 
 ## Programme structure
 
-[WIT UK Programme Structure March 2023](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2023.pdf?v=1673375648)
+[WIT UK Programme Structure March 2024](/assets/WIT_UK_Programme_Structure_March_2024_v1.0(5).pdf)
 
 A limited number of places are still available, so please notify your interest to [info@worsleyinstitute.uk](mailto:info@worsleyinstitute.uk)
 

@@ -9,7 +9,7 @@ showTopQuote: false
 
 WIT UK, in conjuction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next intake which commences in March 2024.
 
-You will find information about the programme structure, dates and fees by clicking on the following link.
+You will find information about the programme structure, dates and fees by clicking on the links below.
 
 ## Programme structure
 
@@ -51,8 +51,6 @@ then we firmly believe that this course is for you.
 an [Open Letter from Judy Worsley](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/JBW-Open-Winc-Letter.pdf?v=1658776421), highlighting the transmission of the lineage of Classical Five-Element Acupuncture® to hundreds of acupuncturists the world over through J.R. Worsley’s teachings, post graduate support, mentoring and master-apprentice-style training, originally set up by J.R. and Judy Worsley, and now hosted by Judy Worsley and the Worsley Institute.
 
 We are not expecting extensive essays on history and theory of acupuncture, or lots of online reading and research. Instead the faculty team guided by Judy Worsley will be offering inspirational, high quality, and thought-provoking, relatable training.
-
-[The full faculty team](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Faculty_List.pdf?v=1669673439 "Worsley Institute Training℠ (WIT℠ UK) Programme Structure 2023"), a team dedicated to recapture J.R.’s original inspirational, meaningful training in the oral tradition, staying true to the on-going Worsley lineage.
 
 [Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2024_v1.0.pdf?v=1694098238)
 

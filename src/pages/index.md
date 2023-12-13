@@ -9,7 +9,9 @@ showTopQuote: false
 
 WIT UK, in conjuction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next intake which commences in March 2024.
 
-You will find information about the programme structure, dates and fees by clicking on the links below.
+You will find information about the WIT UK programme structure, dates and fees below.
+
+Or for further information on the [WIT PNW USA and Canada Training] (https://worsleyinstitute.com/pages/worsley-institute-training-witsm-vancouver-bc-beginning-march-2024) for licensed practitioners or those enrolled in accredited schools that lead to licensure.
 
 ## Programme structure
 

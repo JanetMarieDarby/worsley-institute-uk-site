@@ -54,7 +54,7 @@ We are not expecting extensive essays on history and theory of acupuncture, or l
 
 [Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2024_v1.0.pdf?v=1694098238)
 
-We are delivering the training in the beautiful Yorkshire Dales, near Leeds. Depending on the geographical location of the participants we may vary the location from time to time in order to make it more affordable or more practical for attendees.
+We are delivering the training in the beautiful village of Kemerton, in the tranquil Cotswolds, at Meriel Darby’s renowned Kemerton Acupuncture Clinic.
 
 ---
 

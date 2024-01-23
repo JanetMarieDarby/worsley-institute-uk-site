@@ -15,7 +15,7 @@ Or for further information on the [WIT PNW USA and Canada Training](https://wors
 
 ## Programme structure
 
-[WIT UK Programme Structure March 2024](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2024_v1.0.pdf?v=1694098238)
+[WIT UK Programme Structure March 2024](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2024_v1.2.pdf?v=1706042095)
 
 A limited number of places are still available, so please notify your interest to [info@worsleyinstitute.uk](mailto:info@worsleyinstitute.uk)
 
@@ -54,7 +54,7 @@ an [Open Letter from Judy Worsley](https://cdn.shopify.com/s/files/1/0605/2718/
 
 We are not expecting extensive essays on history and theory of acupuncture, or lots of online reading and research. Instead the faculty team guided by Judy Worsley will be offering inspirational, high quality, and thought-provoking, relatable training.
 
-[Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2024_v1.0.pdf?v=1694098238)
+[Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_March_2024_v1.2.pdf?v=1706042095)
 
 We are delivering the training in the beautiful village of Kemerton, in the tranquil Cotswolds, at Meriel Darby’s renowned Kemerton Acupuncture Clinic.
 

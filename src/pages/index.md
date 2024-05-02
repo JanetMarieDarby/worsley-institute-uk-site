@@ -89,4 +89,4 @@ An expanding number of invaluable benefits have been negotiated by the BAF.  Al
 Further benefits include the highly popular access to the BAF sharps disposal service, which saves time, money and resources. Without need of contract the provider will collect and deliver when you are ready and includes full disposal.  
 Additionally at present over 14 health care companies allow our UK members, and BAF registrant client's to claim their cost of treatment back.
 
-With the text Please submit an [application](https://form.jotformeu.com/202513369494358).
+Please submit an [application](https://form.jotformeu.com/202513369494358).

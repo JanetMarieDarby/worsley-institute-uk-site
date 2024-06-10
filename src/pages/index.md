@@ -11,8 +11,6 @@ WIT UK, in conjuction with [Worsley Institute Training](https://worsleyinstitute
 
 You will find information about the WIT UK programme structure, dates and fees below.
 
-Or for further information on the [WIT PNW USA and Canada Training](https://worsleyinstitute.com/pages/worsley-institute-training-witsm-vancouver-bc-beginning-march-2024) for licensed practitioners or those enrolled in accredited schools that lead to licensure.
-
 ## Programme structure
 
 [WIT UK Programme Structure September 2024](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_Sep_2024_v1.0.pdf?v=1717968536)

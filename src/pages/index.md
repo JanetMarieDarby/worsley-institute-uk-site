@@ -5,9 +5,9 @@ image: "src/assets/Judy-Home.jpg"
 showTopQuote: false
 ---
 
-# Welcome to the WIT UK training page!
+# Welcome to Worsley Institute Training UK
 
-WIT UK, in conjuction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next intake which commences in September 2024.
+WIT UK, in conjunction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next intake which commences in September 2024.
 
 You will find information about the WIT UK programme structure, dates and fees below.
 
@@ -48,9 +48,9 @@ then we firmly believe that this course is for you.
 
 **Please find below links to:**
 
-an [Open Letter from Judy Worsley](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/JBW-Open-Winc-Letter.pdf?v=1658776421), highlighting the transmission of the lineage of Classical Five-Element Acupuncture® to hundreds of acupuncturists the world over through J.R. Worsley’s teachings, post graduate support, mentoring and master-apprentice-style training, originally set up by J.R. and Judy Worsley, and now hosted by Judy Worsley and the Worsley Institute.
+an [Open Letter from Judy Worsley](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/JBW-Open-Winc-Letter.pdf?v=1658776421), highlighting the transmission of the lineage of Classical Five-Element Acupuncture® to hundreds of acupuncturists the world over through J.R. Worsley’s teachings, post-graduate support, mentoring and master-apprentice-style training, originally set up by J.R. and Judy Worsley, and now hosted by Judy Worsley and the Worsley Institute.
 
-We are not expecting extensive essays on history and theory of acupuncture, or lots of online reading and research. Instead the faculty team guided by Judy Worsley will be offering inspirational, high quality, and thought-provoking, relatable training.
+We are not expecting extensive essays on the history and theory of acupuncture, or lots of online reading and research. Instead, the faculty team guided by Judy Worsley will be offering inspirational, high quality, and thought-provoking, relatable training.
 
 [Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_Sep_2024_v1.0.pdf?v=1717968536)
 
@@ -66,7 +66,7 @@ We are delivering the training in the beautiful village of Kemerton, in the tran
 
 [Programme Fees](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Fees_September_2024.pdf?v=1717968496)
 
-If you would like to join us on this training which offers an incredible opportunity for personal growth, challenging experiences and profound realisation, please complete the application form (link below).
+If you would like to join us in this training which offers an incredible opportunity for personal growth, challenging experiences and profound realisation, please complete the application form (link below).
 
 [Application Form](https://form.jotformeu.com/202513369494358)
 
@@ -84,7 +84,7 @@ The BAF is the largest independent collaboration of acupuncturists in the UK, in
 
 An expanding number of invaluable benefits have been negotiated by the BAF.  All UK based graduates who take up the Practitioner Plan membership of Worsley Institute are then eligible to become a registrant of the BAF and may take out discounted professional indemnity insurance with Balens.
 
-Further benefits include the highly popular access to the BAF sharps disposal service, which saves time, money and resources. Without need of contract the provider will collect and deliver when you are ready and includes full disposal.  
-Additionally at present over 14 health care companies allow our UK members, and BAF registrant client's to claim their cost of treatment back.
+Further benefits include the highly popular access to the BAF sharps disposal service, which saves time, money and resources. Without need of contract, the provider will collect and deliver when you are ready and includes full disposal.  
+Additionally at present over 14 healthcare companies allow our UK members and BAF registrant client's to claim their cost of treatment back.
 
 Please submit an [application](https://form.jotformeu.com/202513369494358).

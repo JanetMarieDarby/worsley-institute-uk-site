@@ -7,7 +7,7 @@ showTopQuote: false
 
 # Welcome to Worsley Institute Training UK
 
-WIT UK, in conjunction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next intake which commences in September 2024.
+WIT UK, in conjunction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next Worsley Classical Five-Element Acupuncture training course which commences in September 2024.
 
 You will find information about the WIT UK programme structure, dates and fees below.
 

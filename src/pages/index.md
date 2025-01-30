@@ -7,13 +7,13 @@ showTopQuote: false
 
 # Welcome to Worsley Institute Training UK
 
-WIT UK, in conjunction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next Worsley Classical Five-Element Acupuncture training course which commences in September 2024.
+WIT UK, in conjunction with [Worsley Institute Training](https://worsleyinstitute.com/pages/worsley-institute-training-wit-mission-statement) is delighted to announce our next Worsley Classical Five-Element Acupuncture training course which commences in September 2025.
 
 You will find information about the WIT UK programme structure, dates and fees below.
 
 ## Programme structure
 
-[WIT UK Programme Structure September 2024](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_Sep_2024_v1.0.pdf?v=1717968536)
+[WIT UK Programme Structure September 2025](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_Sep_2025_v1.1.pdf?v=1738260622)
 
 A limited number of places are still available, so please notify your interest to [info@worsleyinstitute.uk](mailto:info@worsleyinstitute.uk)
 
@@ -52,7 +52,7 @@ an [Open Letter from Judy Worsley](https://cdn.shopify.com/s/files/1/0605/2718/
 
 We are not expecting extensive essays on the history and theory of acupuncture, or lots of online reading and research. Instead, the faculty team guided by Judy Worsley will be offering inspirational, high quality, and thought-provoking, relatable training.
 
-[Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_Sep_2024_v1.0.pdf?v=1717968536)
+[Programme Structure and Dates](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_Sep_2025_v1.1.pdf?v=1738260622)
 
 We are delivering the training in the beautiful village of Kemerton, in the tranquil Cotswolds, at Meriel Darby’s renowned Kemerton Acupuncture Clinic.
 
@@ -64,7 +64,7 @@ We are delivering the training in the beautiful village of Kemerton, in the tran
 -   Offering a training that is engaging, stimulating and fun
 -   Being inspired by JR’s style, content and approach, which includes enjoying being together with a common mission.
 
-[Programme Fees](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Fees_September_2024.pdf?v=1717968496)
+[Programme Fees](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Fees_September_2025.pdf?v=1738260620)
 
 If you would like to join us in this training which offers an incredible opportunity for personal growth, challenging experiences and profound realisation, please complete the application form (link below).
 

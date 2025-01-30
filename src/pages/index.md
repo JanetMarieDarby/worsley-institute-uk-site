@@ -19,7 +19,7 @@ A limited number of places are still available, so please notify your interest t
 
 Or if you would like to apply for a place, please submit an [application](https://form.jotformeu.com/202513369494358).
 
-We look forward to hearing from you!
+We look forward to hearing from you.
 
 ---
 

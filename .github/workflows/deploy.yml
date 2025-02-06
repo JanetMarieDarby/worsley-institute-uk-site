@@ -28,7 +28,7 @@ jobs:
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: github-pages
+          name: github-pages-${{ github.run_id }}
           path: dist
           if-no-files-found: warn
           overwrite: true  # Allows replacing the existing artifact

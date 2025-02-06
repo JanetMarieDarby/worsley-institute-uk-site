@@ -20,8 +20,12 @@ jobs:
       - name: Install, build, and upload your site
         uses: withastro/action@v2
 
-      - name: Delete old artifacts (Optional)
-        run: gh api --method DELETE repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
+      - name: Delete old artifacts
+        run: |
+          ARTIFACT_ID=$(gh api repos/${{ github.repository }}/actions/artifacts --jq '.artifacts[] | select(.name=="github-pages") | .id')
+          if [[ -n "$ARTIFACT_ID" ]]; then
+            gh api --method DELETE repos/${{ github.repository }}/actions/artifacts/$ARTIFACT_ID
+          fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

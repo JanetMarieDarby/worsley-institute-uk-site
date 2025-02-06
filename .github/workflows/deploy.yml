@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -31,31 +31,11 @@ jobs:
       - name: Verify build output
         run: ls -lah dist/ || echo "⚠️ dist/ folder is missing!"
 
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: dist
-          if-no-files-found: error  # Ensures workflow fails if no files are found
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
 
-  deploy:
-    needs: build  # Ensures build completes before deploying
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: List available artifacts (Debugging)
-        run: gh api repos/${{ github.repository }}/actions/artifacts
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Download build artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: .
-
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - name: Upload to GitHub Pages
         uses: actions/deploy-pages@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

@@ -15,11 +15,11 @@ You will find information about the WIT UK programme structure, dates and fees b
 
 [WIT UK Programme Structure September 2025](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/WIT_UK_Programme_Structure_Sep_2025_v1.1.pdf?v=1738260622)
 
-A limited number of places are still available, so please notify your interest to [info@worsleyinstitute.uk](mailto:info@worsleyinstitute.uk)
+A limited number of places are still available, so please notify your interest to [info@worsleyinstitute.uk](mailto:info@worsleyinstitute.uk)
 
-Or if you would like to apply for a place, please submit an [application](https://form.jotformeu.com/202513369494358).
+Or if you would like to apply for a place, please submit an [application](https://form.jotformeu.com/202513369494358).
 
-We look forward to hearing from you.
+We look forward to hearing from you!
 
 ---
 
@@ -27,7 +27,7 @@ We look forward to hearing from you.
 
 > We must strive to see people not only as they present themselves in illness, but more importantly as they would be in perfect health and balance, in full discovery of their true nature, unique in body, mind and spirit.
 >
-> -- <cite> Professor J.R. Worsley</cite>
+> -- <cite> Professor J.R. Worsley</cite>
 
 [J.R. was a devoted Master](https://worsleyinstitute.com/pages/j-r-worsley) and teacher of Five-Element Acupuncture. Together with [Judy Becker Worsley](https://worsleyinstitute.com/pages/judy-worsley), he founded the Worsley Institute in order to protect the purity of the lineage that had been bestowed on him by his teachers in Taiwan, Singapore, and Korea.
 
@@ -48,7 +48,7 @@ then we firmly believe that this course is for you.
 
 **Please find below links to:**
 
-an [Open Letter from Judy Worsley](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/JBW-Open-Winc-Letter.pdf?v=1658776421), highlighting the transmission of the lineage of Classical Five-Element Acupuncture® to hundreds of acupuncturists the world over through J.R. Worsley’s teachings, post-graduate support, mentoring and master-apprentice-style training, originally set up by J.R. and Judy Worsley, and now hosted by Judy Worsley and the Worsley Institute.
+an [Open Letter from Judy Worsley](https://cdn.shopify.com/s/files/1/0605/2718/2031/files/JBW-Open-Winc-Letter.pdf?v=1658776421), highlighting the transmission of the lineage of Classical Five-Element Acupuncture® to hundreds of acupuncturists the world over through J.R. Worsley’s teachings, post-graduate support, mentoring and master-apprentice-style training, originally set up by J.R. and Judy Worsley, and now hosted by Judy Worsley and the Worsley Institute.
 
 We are not expecting extensive essays on the history and theory of acupuncture, or lots of online reading and research. Instead, the faculty team guided by Judy Worsley will be offering inspirational, high quality, and thought-provoking, relatable training.
 
@@ -72,19 +72,19 @@ If you would like to join us in this training which offers an incredible opportu
 
 Once your application has been received, we will contact you to arrange a short interview. Following your interview and reference checks, we will be in touch to let you know our decision.
 
-If you have any further questions after looking through all the information regarding the training, please email [info@worsleyinstitute.uk](mailto:info@worsleyinstitute.uk)
+If you have any further questions after looking through all the information regarding the training, please email [info@worsleyinstitute.uk](mailto:info@worsleyinstitute.uk)
 
 ---
 
 ## British Acupuncture Federation (BAF)
 
-Our graduates are eligible to join the [British Acupuncture Federation (BAF)](https://www.britishacupuncturefederation.co.uk/ "Join the British Acupuncture Federation (BAF)").
+Our graduates are eligible to join the [British Acupuncture Federation (BAF)](https://www.britishacupuncturefederation.co.uk/ "Join the British Acupuncture Federation (BAF)").
 
 The BAF is the largest independent collaboration of acupuncturists in the UK, including leading acupuncture associations, and supports public choice and the ability to access the use of acupuncture by highly trained practitioners working in both the public and independent sectors.
 
-An expanding number of invaluable benefits have been negotiated by the BAF.  All UK based graduates who take up the Practitioner Plan membership of Worsley Institute are then eligible to become a registrant of the BAF and may take out discounted professional indemnity insurance with Balens.
+An expanding number of invaluable benefits have been negotiated by the BAF.  All UK based graduates who take up the Practitioner Plan membership of Worsley Institute are then eligible to become a registrant of the BAF and may take out discounted professional indemnity insurance with Balens.
 
 Further benefits include the highly popular access to the BAF sharps disposal service, which saves time, money and resources. Without need of contract, the provider will collect and deliver when you are ready and includes full disposal.  
 Additionally at present over 14 healthcare companies allow our UK members and BAF registrant client's to claim their cost of treatment back.
 
-Please submit an [application](https://form.jotformeu.com/202513369494358).
+Please submit an [application](https://form.jotformeu.com/202513369494358).

@@ -20,11 +20,18 @@ jobs:
       - name: Install, build, and upload your site
         uses: withastro/action@v2
 
+      - name: Delete old artifacts (Optional)
+        run: gh api --method DELETE repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: dist # Update this if your build output directory is different
+          path: dist
+          if-no-files-found: warn
+          overwrite: true  # Allows replacing the existing artifact
 
   deploy:
     needs: build
